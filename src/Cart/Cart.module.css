@@ -1,0 +1,12 @@
+.cart{
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 30%;
+    height: 100vh;
+    margin: 0;
+    background: #ffffff;
+    z-index: +1;
+    padding: 20px;
+    overflow-y: scroll;
+}

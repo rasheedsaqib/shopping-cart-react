@@ -1,0 +1,23 @@
+.cartIcon{
+    width: 40px;
+    cursor: pointer;
+}
+
+.relative{
+    position: relative;
+}
+
+.number{
+    width: 25px;
+    height: 25px;
+    background: coral;
+    color: white;
+    font-size: 12px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: -20px;
+    right: -10px;
+}

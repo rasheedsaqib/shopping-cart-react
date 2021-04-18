@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.productImg{
+    max-height: 200px;
+    margin-left: 10px;
+    max-width: 150px;
+}
+
+.button{
+    height: 40px;
+    width: 40px;
+    border: 1px solid black;
+}
